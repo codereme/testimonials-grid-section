@@ -22,7 +22,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonials-grid-with-css-customized-cards-l5T4woOxaK](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-with-css-customized-cards-l5T4woOxaK)
 
 - Live Site URL: [https://codereme.github.io/testimonials-grid-section](https://codereme.github.io/testimonials-grid-section)
 
